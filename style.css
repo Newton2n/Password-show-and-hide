@@ -1,0 +1,32 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #76ABAE;
+}
+.card{
+    margin: 200px auto;
+    background: #fff;
+    max-width: 400px;
+    border-radius: 4px;
+    width:90%;
+    display: flex;
+    padding: 10px 20px;
+    align-items: center;
+}
+#icon{
+    cursor: pointer;
+    
+}
+#input{
+    margin:0;
+    outline: 0;
+    border: 0;
+    height:100%;
+    width:93%;
+    letter-spacing: 4px;
+    font-weight: 520;
+    font-size: 25px;
+}
